@@ -14,7 +14,10 @@ This Automation will work in any messenger like WhatsApp, Facebook Messenger, In
 
 In order to access the Python library, you need to install it first.
 
-_pip install pyautogui_
+use `pip` to install PyAutoGUI
+```python
+pip install pyautogui
+```
 
 Reference:
 [Visit website](https://pypi.org/project/PyAutoGUI/ "Reference Link")
